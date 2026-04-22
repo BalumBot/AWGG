@@ -40,3 +40,11 @@ jobs:
       if: runner.os == 'Windows'
       shell: powershell
       run: pwsh -File make.ps1 build
+    
+      # New artifact upload step for Windows
+    - name: Upload awgg.exe
+      if: runner.os == 'Windows'
+      uses: actions/upload-artifact@v2
+      with:
+          name: awgg
+          path: awgg.exe
