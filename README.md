@@ -1,7 +1,7 @@
-BWGG
+Lazarus WGET GUI
 =====
 
-BWGG comes from *Balumbot Wget GUI*. BWGG is based on AWGG. Below is original info:
+Lazarus Wget GUI is based on AWGG. Below is original info:
 
 AWGG comes from *Advanced Wget GUI*.
 AWGG is a lightweight multiplatform and multilanguage download manager, basically a [wget][1] frontend and other tools like [aria2][2], [curl][3], [youtube-dl][9] and [axel][4]. AWGG is written in [Free Pascal][5] , using [CodeTyphon][10] and [Lazarus IDE][6].
