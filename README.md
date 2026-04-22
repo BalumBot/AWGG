@@ -1,5 +1,7 @@
-AWGG
+BWGG
 =====
+
+BWGG comes from *Balumbot Wget GUI*. BWGG is based on AWGG. Below is original info:
 
 AWGG comes from *Advanced Wget GUI*.
 AWGG is a lightweight multiplatform and multilanguage download manager, basically a [wget][1] frontend and other tools like [aria2][2], [curl][3], [youtube-dl][9] and [axel][4]. AWGG is written in [Free Pascal][5] , using [CodeTyphon][10] and [Lazarus IDE][6].
@@ -22,17 +24,14 @@ Features:
 - Status filter download.
 - Category downloads as Videos, Music, Image, Program, Compressed and others.
 
-Copyright (C) 2014-2022 **Reinier Romero Mir** [(nenirey@gmail.com)][7]
+Copyright (C) 2014-2022 **Reinier Romero Mir**
+Copyright (C) 2014-2022 **Balumbot**
 
-[Official web site][8]
 
 [1]: http://www.gnu.org/software/wget/
 [2]: http://aria2.sourceforge.net/
 [3]: http://curl.haxx.se/
-[4]: http://axel.alioth.debian.org/
-[5]: http://www.freepascal.org/
-[6]: http://www.lazarus.freepascal.org/
-[7]: mailto:nenirey@gmail.com
-[8]: http://sites.google.com/site/awggproject
-[9]: http://yt-dl.org
-[10]: http://pilotlogic.com
+[4]: http://www.freepascal.org/
+[5]: http://www.lazarus.freepascal.org/
+[6]: http://yt-dl.org
+[7]: http://pilotlogic.com
