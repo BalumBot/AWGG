@@ -25,7 +25,7 @@ Features:
 - Category downloads as Videos, Music, Image, Program, Compressed and others.
 
 Copyright (C) 2014-2022 **Reinier Romero Mir**
-Copyright (C) 2014-2022 **Balumbot**
+Copyright (C) 2026-? **Balumbot**
 
 
 [1]: http://www.gnu.org/software/wget/
